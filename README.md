@@ -6,3 +6,4 @@ The room covers SSH key and password-based logins, brute-force detection, expose
 
 The full walkthrough is available here:
 
+[linux-threat-detection-1.pdf](linux-threat-detection-1.pdf)
